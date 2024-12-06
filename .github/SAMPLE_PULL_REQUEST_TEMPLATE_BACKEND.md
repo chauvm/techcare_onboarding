@@ -20,3 +20,4 @@ Describe tests run to verify changes. If manual testing has been done, provide i
 ### Checklist:
 
 - [ ] Added tests for new features or bug fixes
+- [ ] (For the final review) I have refactored my code :)
